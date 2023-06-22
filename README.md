@@ -1,6 +1,12 @@
-我試著修改 README.md 這個檔案, 再按最下面 綠色的的 Commit 按鈕,便可以將修改後的網頁更新。只是 Jekyll變身藥水需要10分鐘才會更新網頁。
-
 ## 歡迎來到 GitHub 製作的網頁 Welcome to GitHub Pages
+
+我是葉冠志，英文名字是Peter，剛國小畢業，要進入國中就讀。
+
+這裡想要介紹 PaGamO、攝影、讀書的心得筆記等。
+
+我想要用 HackMD 來修改網頁。這個部分我還不太會。
+
+我試著修改 README.md 這個檔案, 再按最下面 綠色的的 Commit 按鈕,便可以將修改後的網頁更新。只是 Jekyll變身藥水需要10分鐘才會更新網頁。
 
 你可以使用 [這個README.md檔案來編輯](https://github.com/yehpetertw/yehpetertw.github.io/edit/main/README.md) 來編輯你的網頁。使用的語法是 Markdown 的格式。
 
