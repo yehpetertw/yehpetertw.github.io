@@ -13,11 +13,11 @@
 ## 2023-06-23 大頭貼
 今天試著使用文字雲做自己的大頭貼。
 以上是準備好素材, 接下來開啟 wordart.com, 選擇 Create
-1. WORDS 裡面, 匯入之前「斷詞的結果_純詞.txt」
-2. SHAPES 裡面, 匯入下載的 icon (黑色是放字的地方, 所以必要時要前後調色)
-3. FONTS 裡面, 匯入下載的 NotoSerifCJKtc-Black.otf (若沒中文字型就只秀 Hello)
+1. WORDS 裡面, 自己打字
+2. SHAPES 裡面， 自己選一個圖片，也可以用自己的圖。
+3. FONTS 裡面, 匯入下載的 NotoSerifCJKtc-Black.otf (若沒中文字型就只秀 ？ )
    https://github.com/googlefonts/noto-cjk/blob/master/NotoSerifCJKtc-Black.otf
-4. STYLE 裡面, Word colors 選 Custom, 右邊的palette調色盤全刪,只用自己的 #357EA7
+4. STYLE 裡面, Word colors 選 Custom 即可自行調色。
 5. 按下 Visualize, 會出現結果
 6. DOWNLOAD Default PNG (免費)
 
