@@ -8,24 +8,6 @@
 
 我試著修改 README.md 這個檔案, 再按最下面 綠色的的 Commit 按鈕,便可以將修改後的網頁更新。只是 Jekyll變身藥水需要10分鐘才會更新網頁。
 
-# 暑假日誌
-
-## 2023-06-23 大頭貼
-今天試著使用文字雲做自己的大頭貼。
-以上是準備好素材, 接下來開啟 wordart.com, 選擇 Create
-1. WORDS 裡面, 自己打字
-2. SHAPES 裡面， 自己選一個圖片，也可以用自己的圖。
-3. FONTS 裡面, 匯入下載的 NotoSerifCJKtc-Black.otf (若沒中文字型就只秀 ？ )
-   https://github.com/googlefonts/noto-cjk/blob/master/NotoSerifCJKtc-Black.otf
-4. STYLE 裡面, Word colors 選 Custom 即可自行調色。
-5. 按下 Visualize, 會出現結果
-6. DOWNLOAD Default PNG (免費)
-- 04_wordart_generate_需要再自己調整大小.png 
-
-
-
-
-
 
 
 你可以使用 [這個README.md檔案來編輯](https://github.com/yehpetertw/yehpetertw.github.io/edit/main/README.md) 來編輯你的網頁。使用的語法是 Markdown 的格式。
@@ -90,3 +72,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 遇到問題時, 可以看看下面的英文教學文件, 或是寄信求助, GitHub 會幫你解決的。
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# 暑假日誌
+
+## 2023-06-23 大頭貼
+今天試著使用文字雲做自己的大頭貼。
+以上是準備好素材, 接下來開啟 wordart.com, 選擇 Create
+1. WORDS 裡面, 自己打字
+2. SHAPES 裡面， 自己選一個圖片，也可以用自己的圖。
+3. FONTS 裡面, 匯入下載的 NotoSerifCJKtc-Black.otf (若沒中文字型就只秀 ？ )
+   https://github.com/googlefonts/noto-cjk/blob/master/NotoSerifCJKtc-Black.otf
+4. STYLE 裡面, Word colors 選 Custom 即可自行調色。
+5. 按下 Visualize, 會出現結果
+6. DOWNLOAD Default PNG (免費)
+- 04_wordart_generate_需要再自己調整大小.png 
