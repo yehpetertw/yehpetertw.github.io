@@ -10,8 +10,18 @@
 
 # 暑假日誌
 
-## 2023-06-23
-今天試著使用文字雲做自己的大頭貼，
+## 2023-06-23 大頭貼
+今天試著使用文字雲做自己的大頭貼。
+以上是準備好素材, 接下來開啟 wordart.com, 選擇 Create
+1. WORDS 裡面, 匯入之前「斷詞的結果_純詞.txt」
+2. SHAPES 裡面, 匯入下載的 icon (黑色是放字的地方, 所以必要時要前後調色)
+3. FONTS 裡面, 匯入下載的 NotoSerifCJKtc-Black.otf (若沒中文字型就只秀 Hello)
+   https://github.com/googlefonts/noto-cjk/blob/master/NotoSerifCJKtc-Black.otf
+4. STYLE 裡面, Word colors 選 Custom, 右邊的palette調色盤全刪,只用自己的 #357EA7
+5. 按下 Visualize, 會出現結果
+6. DOWNLOAD Default PNG (免費)
+
+- 04_wordart_generate_需要再自己調整大小.png 
 
 
 你可以使用 [這個README.md檔案來編輯](https://github.com/yehpetertw/yehpetertw.github.io/edit/main/README.md) 來編輯你的網頁。使用的語法是 Markdown 的格式。
