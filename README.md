@@ -20,8 +20,12 @@
 4. STYLE 裡面, Word colors 選 Custom 即可自行調色。
 5. 按下 Visualize, 會出現結果
 6. DOWNLOAD Default PNG (免費)
-
 - 04_wordart_generate_需要再自己調整大小.png 
+
+
+
+
+
 
 
 你可以使用 [這個README.md檔案來編輯](https://github.com/yehpetertw/yehpetertw.github.io/edit/main/README.md) 來編輯你的網頁。使用的語法是 Markdown 的格式。
