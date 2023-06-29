@@ -1,13 +1,14 @@
-## 歡迎來到 GitHub 製作的網頁 Welcome to GitHub Pages
+# Peter 的網站
 
-我是葉冠志，英文名字是Peter，剛國小畢業，要進入國中就讀。
+我是葉冠志，英文名字是Peter，國小剛畢業，要進入國中就讀。
 
 這裡想要介紹 PaGamO、攝影、讀書的心得筆記等。
 
-我想要用 HackMD 來修改網頁。這個部分我還不太會。
+第一種方法，我會用 HackMD 來修改網頁。
 
-我試著修改 README.md 這個檔案, 再按綠色的的 Commit 按鈕,便可以將修改後的網頁更新。只是 Jekyll變身藥水需要10分鐘才會更新網頁。
+第二種方法，我會在 GitHub 修改 README.md 這個檔案, 再按綠色 Commit 按鈕，便可將網頁更新。但 Jekyll 變身藥水需要10分鐘才會更新網頁。
 
+## Markdown 的語法
 
 ```markdown
 倒者寫3撇, 可以把裡面的資料變成像是程式碼一樣的內容
@@ -25,15 +26,11 @@
 **黑體字** and _斜體字_ and `程式字`
 最後是[網頁的連結](網址) and ![要秀的圖片](圖的網址)
 ```
+更多的語法在 [這裡]((https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-如果你想要看更多的語法, 有英文的教學資料在 [這裡]((https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Peter 的暑假日誌
 
-你的網頁會使用你挑選的 Jekyll 變身藥水的主題。你可以之後去修改這個 `_config.yml` 設定檔
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yehpetertw/yehpetertw.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-# 暑假日誌
-
-## 2023-06-23 大頭貼
+## 2023-06-22 (四)
 今天試著使用文字雲做自己的大頭貼。
 以上是準備好素材, 接下來開啟 wordart.com, 選擇 Create
 1. WORDS 裡面, 自己打字
@@ -73,3 +70,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 今天下午爸爸還去中和國民運動中心，幫我問「桌球教練」的事，承辦人今天有連絡到教練，想約下週四早上11點第一次上課。可是當天爸爸媽媽都要去學校，我要自己帶9000元去繳報名費，自己去上課，感覺有點可憐。後來爸爸請運動中心幫忙連絡教練，晚上8點多連絡到教練，說明天早上11點就可以開始第一次上課了。希望明天的桌球課程可以順利學到很多。
 
+## 2023-06-29 (四)
+今天早上我去運動中心去上桌球課，我爸先帶我去運動中心等教練來。我爸原本不是說要叫我一個人去嗎？是這樣的，我爸今天早上說，因為他不知道要怎麼聯絡教練，所就陪我一天。我看到教練第一眼時，沒什麼感覺。這天我帶的是顆粒拍，但教練說一開始先用普通的拍子就好，於是他就借我他的。教練一開始先跟我打一球，知道我的實力後，開始餵球，先練我的反拍。我的反拍還算不錯，畢竟我平常都用反拍打嘛！接下來換正手，我的正手打的爛到爆，連幼稚園的都可以贏我，但教練一矯正我打的就變得行雲流水。教練說我有一個壞習慣，就是手會勾、會用滑，不是用推的，所以自然會不自然。最後教練就叫我一正一反打，打得超自然的，也不用太大力。一開始我從一個正手超爛，變得行雲流水；從打很急、很大力，到一個使力剛好的過程。
