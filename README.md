@@ -26,22 +26,23 @@
 **黑體字** and _斜體字_ and `程式字`
 最後是[網頁的連結](網址) and ![要秀的圖片](圖的網址)
 ```
-更多的語法在 [這裡]((https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+更多的語法在 [這裡](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 # Peter 的暑假日誌
 
 ## 2023-06-22 (四)
 今天試著使用文字雲做自己的大頭貼。
-以上是準備好素材, 接下來開啟 wordart.com, 選擇 Create
+以準備好素材, 接下來開啟 wordart.com, 選擇 Create
 1. WORDS 裡面, 自己打字
 2. SHAPES 裡面， 自己選一個圖片，也可以用自己的圖。
 3. FONTS 裡面, 匯入下載的 NotoSerifCJKtc-Black.otf (若沒中文字型就只秀 ？ )
-   https://github.com/googlefonts/noto-cjk/blob/master/NotoSerifCJKtc-Black.otf
+   - https://github.com/googlefonts/noto-cjk/blob/master/NotoSerifCJKtc-Black.otf
 4. STYLE 裡面, Word colors 選 Custom 即可自行調色。
 5. 按下 Visualize, 會出現結果
 6. DOWNLOAD Default PNG (免費)
-- 04_wordart_generate_需要再自己調整大小.png
+   - 04_wordart_generate_需要再自己調整大小.png
 
+![](https://avatars.githubusercontent.com/u/98904049?v=4)
 
 ## 2023-06-23 (五)
 今天我打算去新北市立圖書館總館看書，所以我跟我爸借youbike騎腳踏車。一開始還沒事，但騎到一半就開始下大雨，因為我沒穿雨衣，所以全身都濕透了。那時我們在水果店，所以我們買了一堆快爛掉的香蕉and荔枝，我們一邊吃4根香蕉，一邊等雨小一點，我們想說既然都濕了，那就衝吧！但我們錯了，雨越下越大，我們只好在一家麵線店門口停下，再吃一碗熱騰騰的綜合麵線再回家。麵線店的老闆娘很貼心的送我一件雨衣，好讓我們回家。我們在小巷子裡穿梭，經過了淹水的路時，腳直接泡在水裡，我爸還倒了三次水呢! 突然在一個離家100公尺的轉彎，我的車子打滑，我載的荔枝飛了出去，我爸趕緊跳車，查看我的傷勢，前面的香蕉也摔爛了。(托雨衣的福，我沒受傷) 然後我就先走回家，我爸就去還車，就這樣結束了一天～
